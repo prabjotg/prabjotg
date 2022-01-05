@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @prabjotg
 - 👀 I’m interested in Cloud computing
 - 🌱 I’m currently learning AWS 
+-     04/01/2022 - Paswed my AWS Cloud Practitioner exam
 - 💞️ I’m looking to collaborate on any startup projects on AWS 
 - 📫 How to reach me gujralprabjot@gmail.com
 - Skills developed
